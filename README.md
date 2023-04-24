@@ -11,7 +11,8 @@ Resources and Citations:
 
 This is a template for the ISS210's final webstie on social justice (not required for students to use).
 You should use this file to drop citations for all the images, articles, etc. that you use. 
-Be sure to replace the following with your substitions.
+
+Be sure to replace the following with your substitions
 ISSFront: https://www.every.org/racial-justice
 SJImage1: https://www.pinterest.ca/pin/408772103654309571/
 SJImage2: Youtube
